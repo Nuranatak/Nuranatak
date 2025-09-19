@@ -1,13 +1,21 @@
-<h1 align="center"> Hi, I'm Nuran </h1>
+<h1 align="center"> Hi, I'm Nuran 👋 </h1>
 
 <p align="center">
-<i>Currently studying Computer Engineering, I enjoy developing projects and expanding my technical skills. I have completed projects that improved my problem-solving and teamwork abilities. I am eager to apply my knowledge, collaborate with professionals, and contribute to innovative solutions and I'm passionate about Android Development.</i>
+<i>Currently studying Computer Engineering, I enjoy developing projects and expanding my technical skills. 
+I have completed projects that improved my problem-solving and teamwork abilities. 
+I am eager to apply my knowledge, collaborate with professionals, and contribute to innovative solutions 
+and I'm passionate about Android Development.</i>
 </p>
+
 ---
+
 🎓 Computer Engineering student at Ondokuz Mayıs University (Expected graduation: 2026)  
-📱 Passionate about Android Development 
+📱 Passionate about Android Development  
 💡 Interested in creating impactful mobile solutions and improving user experiences  
-🌍 Open to remote opportunities in Mobile & Software Development 
+🌍 Open to remote opportunities in Mobile & Software Development  
+
+---
+
 ## 🚀 Tech Stack  
 
 **Mobile Development**  
@@ -33,21 +41,21 @@
 ## 💼 Experience  
 
 **👨‍💻 Junior Android Developer Intern – Orion Innovation (2024)**  
-- Developed a **WhatsApp Clone** with the team.  
-- Implemented **Hilt DI** UI.  
-- Integrated **Jitsi Meet** for video calls.  
-- Fixed issues with **call notifications, UID mismatches, and token conflicts**.  
-- Worked with GitHub workflows & backend teams.  
+- Developed a **WhatsApp Clone** with the team  
+- Implemented **Hilt DI** and **Jetpack Compose** UI  
+- Integrated **Jitsi Meet** for video calls  
+- Fixed issues with **call notifications, UID mismatches, and token conflicts**  
+- Worked with GitHub workflows & backend teams  
 
 **🖥️ IT Helpdesk Assistant – Ondokuz Mayıs University (2022–2024)**  
-- Provided hardware, software, and network support.  
-- Strengthened troubleshooting and communication skills.  
+- Provided hardware, software, and network support  
+- Strengthened troubleshooting and communication skills  
 
 ---
 
 ## 📂 Projects  
 
-### 📱 Emotimate – Android Mobile App 
+### 📱 Emotimate – Android Mobile App  
 AI-powered psychology platform with emotion analysis, CBT techniques, and professional support.  
 - Built with **Kotlin & Firebase**  
 - Backend services in **Python**  
@@ -64,17 +72,19 @@ A fault-tolerant subscription system built on a distributed architecture.
 - Implements **fault tolerance**, **multi-client threading**, and **dynamic load balancing**  
 - Includes visualization of server loads with **Python plotting tools**  
 🔗 [GitHub Repo](https://github.com/Nuranatak/Distributed-Subscriber-Service)  
-**Technologies:** Java, Ruby, Python 
+**Technologies:** Java, Ruby, Python  
 
 ---
 
 ## 🏆 Certificates & Awards  
 
--DELF (Diplôme d'Études en Langue Française) A2 
--Cambridge English Preliminary (PET) B1
+- DELF (Diplôme d'Études en Langue Française) A2  
+- Cambridge English Preliminary (PET) B1  
+
 ---
 
 ## 🌍 Languages  
+
 - 🇹🇷 Turkish – Native  
 - 🇬🇧 English – B2  
 - 🇫🇷 French – A2  
@@ -82,7 +92,8 @@ A fault-tolerant subscription system built on a distributed architecture.
 ---
 
 ## 📫 Connect With Me  
-- [LinkedIn](www.linkedin.com/in/nuran-atak-795220290)  
+
+- [LinkedIn](https://www.linkedin.com/in/nuran-atak-795220290)  
 - 📧 nuran.atak1863@gmail.com  
 
 ---
