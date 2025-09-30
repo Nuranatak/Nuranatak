@@ -72,7 +72,16 @@ A fault-tolerant subscription system built on a distributed architecture.
 - Implements **fault tolerance**, **multi-client threading**, and **dynamic load balancing**  
 - Includes visualization of server loads with **Python plotting tools**  
 🔗 [GitHub Repo](https://github.com/Nuranatak/Distributed-Subscriber-Service)  
-**Technologies:** Java, Ruby, Python  
+**Technologies:** Java, Ruby, Python
+
+### 🌤️ Weather App
+A simple and clean Android weather application built with modern technologies.
+- Search weather for 200+ countries and 800+ cities worldwide
+- Built with Jetpack Compose and Material Design 3
+- Current weather information with temperature, humidity, pressure, and wind speed
+- Weather information displayed in cards with background images
+🔗 [GitHub Repo](https://github.com/Nuranatak/weatherappandroid)
+**Technologies:** Kotlin, Jetpack Compose, Hilt, Retrofit
 
 ---
 
