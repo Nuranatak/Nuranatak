@@ -74,7 +74,7 @@ A maze-based pathfinding simulator for the comparative analysis of **BFS**, **DF
 * Automatic benchmarking across multiple maze sizes and difficulty levels
 * Performance metrics export (CSV format)
 -Built with Python (NumPy, Matplotlib)
-🔗 [GitHub Repo]([#](https://github.com/Nuranatak/AI-SEARCH-ALGORITHMS)
+🔗 [GitHub Repo](https://github.com/Nuranatak/AI-SEARCH-ALGORITHMS)
 
 ### 🌐 Distributed Subscriber Service – Distributed System  
 A fault-tolerant subscription system built on a distributed architecture.  
