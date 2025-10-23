@@ -66,6 +66,16 @@ A project/task management system with team collaboration features.
 - **Spring Boot, PostgreSQL, Angular**  
 🔗 [GitHub Repo](https://github.com/Nuranatak/Project-Management-Software)  
 
+### 🧭 Intelligent Search Simulator – Python Project
+A maze-based pathfinding simulator for the comparative analysis of **BFS**, **DFS**, and **A*** algorithms.Visualizes each algorithm’s exploration process and compares their performance in terms of **execution time**, **expanded nodes**, and **solution cost**.
+**Features:**
+* Breadth-First Search (BFS), Depth-First Search (DFS), and A* algorithms
+* Step-by-step animation and static path visualization
+* Automatic benchmarking across multiple maze sizes and difficulty levels
+* Performance metrics export (CSV format)
+-Built with Python (NumPy, Matplotlib)
+🔗 [GitHub Repo]([#](https://github.com/Nuranatak/AI-SEARCH-ALGORITHMS))
+
 ### 🌐 Distributed Subscriber Service – Distributed System  
 A fault-tolerant subscription system built on a distributed architecture.  
 - Provides **load sharing**, **real-time monitoring**, and **peer-to-peer server communication**  
