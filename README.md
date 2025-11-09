@@ -84,6 +84,16 @@ A fault-tolerant subscription system built on a distributed architecture.
 🔗 [GitHub Repo](https://github.com/Nuranatak/Distributed-Subscriber-Service)  
 **Technologies:** Java, Ruby, Python
 
+### 📚 Book List App – Flutter Project 
+An interactive Flutter app for browsing and marking favorite books with a responsive and engaging UI.  
+- Scrollable dynamic list of books using `ListView.builder`  
+- Book cards with cover, title, author, and favorite toggle  
+- Real-time SnackBar feedback for user interactions  
+- Adaptive design with `OrientationBuilder` for portrait and landscape views  
+**Technologies:** Flutter, Dart  
+🔗 [GitHub Repo](https://github.com/Nuranatak/Basic_Flutter_Book_List)
+
+
 ### 🌤️ Weather App
 A simple and clean Android weather application built with modern technologies.
 - Search weather for 200+ countries and 800+ cities worldwide
