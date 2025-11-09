@@ -95,9 +95,9 @@ A maze-based pathfinding simulator for the comparative analysis of **BFS**, **DF
 A fault-tolerant subscription system built on a distributed architecture.  
 - Provides **load sharing**, **real-time monitoring**, and **peer-to-peer server communication**  
 - Implements **fault tolerance**, **multi-client threading**, and **dynamic load balancing**  
-- Includes visualization of server loads with **Python plotting tools**  
-🔗 [GitHub Repo](https://github.com/Nuranatak/Distributed-Subscriber-Service)  
+- Includes visualization of server loads with **Python plotting tools**   
 **Technologies:** Java, Ruby, Python
+  🔗 [GitHub Repo](https://github.com/Nuranatak/Distributed-Subscriber-Service) 
 
 ### 📚 Book List App – Flutter Project 
 An interactive Flutter app for browsing and marking favorite books with a responsive and engaging UI.  
@@ -115,8 +115,8 @@ A simple and clean Android weather application built with modern technologies.
 - Built with Jetpack Compose and Material Design 3
 - Current weather information with temperature, humidity, pressure, and wind speed
 - Weather information displayed in cards with background images
-🔗 [GitHub Repo](https://github.com/Nuranatak/weatherappandroid)
 **Technologies:** Kotlin, Jetpack Compose, Hilt, Retrofit
+🔗 [GitHub Repo](https://github.com/Nuranatak/weatherappandroid)
 
 ---
 
