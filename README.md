@@ -20,6 +20,7 @@ and I'm passionate about Android Development.</i>
 
 **Mobile Development**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![Hilt](https://img.shields.io/badge/Hilt-D00000?logo=android&logoColor=white) 
@@ -27,6 +28,7 @@ and I'm passionate about Android Development.</i>
 
 **Backend & Web**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
