@@ -72,6 +72,13 @@ and I'm passionate about Android Development.</i>
 
 ### 📱 Emotimate – Android Mobile App  
 AI-powered psychology platform with emotion analysis, CBT techniques, and professional support.  
+### Features  
+- **Emotion Recognition:** Analyzes user input and mood trends to provide personalized insights  
+- **Schema Therapy Tests:** Identifies cognitive schemas and generates reports based on user results  
+- **AI Chatbot Therapist:** Offers real-time emotional support and CBT-oriented feedback  
+- **Mood Tracking:** Allows users to log daily emotions  
+- **Meditation & Self-Help Tools:** Provides mindfulness exercises and guided meditations  
+- **Professional Support:** Connects users with licensed psychologists for deeper analysis 
 - Built with **Kotlin & Firebase**  
 - Backend services in **Python**  
 🔗 [GitHub Repo](https://github.com/emotimate-team/Emotimate)  
