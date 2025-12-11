@@ -45,8 +45,7 @@ and I'm passionate about Android Development.</i>
 **👩‍💻 Junior Software Developer – Dijital Topraklar (Remote, Part-time | Nov 2025 – Present)**
 - Working as a junior software developer with a focus on Android application development using Kotlin
 - Implementing new features, improving application performance, and debugging production issues
-- Collaborating with cross-functional teams in an agile, remote workflow
--Contributing to clean architecture practices and developing scalable mobile applications
+- Collaborating with cross-functional teams in an agile, remote workflow, contributing to clean architecture practices and developing scalable mobile applications
 
 **🚀 Software Developer – PARS Team, Teknofest UAV Project (Oct 2025 – Present)**  
 - Working as a software developer in a **UAV (Unmanned Aerial Vehicle)** project within the scope of **Teknofest**  
