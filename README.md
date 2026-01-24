@@ -52,7 +52,7 @@ and I'm passionate about Android Development.</i>
 - Using **ROS2**, **Gazebo**, **PX4**, and **Python** to enable autonomous flight control, perform simulations, and develop mission algorithms  
 - Gaining experience in **team collaboration**, **problem-solving**, and **project management** through real-world applications  
 
-**🏗️ Architecture & Engineering Intern – TNC Group (Nov 2025 – Present)**  
+**🏗️ Architecture & Engineering Intern – TNC Group (Nov 2025 – Dec 2025)**  
 - Participating in the **Portfolio-Supported Architecture & Engineering Internship Program** at **Arch of Sigma**, a subsidiary of TNC Group  
 - Contributing to **interdisciplinary projects** that combine architecture, design, and engineering  
 - Developing skills in:  
@@ -60,7 +60,7 @@ and I'm passionate about Android Development.</i>
   - **Industrial Design & Product Development**  
   - **SketchUp** and **Rhinoceros 3D**
 
-**👨‍💻 Junior Android Developer Intern – Orion Innovation (2024)**  
+**👨‍💻 Junior Android Developer Intern – Orion Innovation (Jul 2025 – Sep 2025)**  
 - Developed a **WhatsApp Clone** with the team  
 - Implemented **Hilt DI** and **Jetpack Compose** UI  
 - Integrated **Jitsi Meet** for video calls  
